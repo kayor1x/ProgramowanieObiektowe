@@ -9,4 +9,10 @@ publci class Student extends Osoba {
         this.kierunek = kierunek;
         this.rokStudiów = rokStudiów;
     }
+
+    public void view(){
+        System.out.println("Student:");
+        view();
+        System.out.println("nr albumu: "+nrAlbumu+ " kierunek: " + kierunek + " rok studiów: " + rokStudiów);
+    }
 }
