@@ -12,7 +12,7 @@ publci class Student extends Osoba {
 
     public void view(){
         System.out.println("Student:");
-        view();
+        super.view();
         System.out.println("nr albumu: "+nrAlbumu+ " kierunek: " + kierunek + " rok studiów: " + rokStudiów);
     }
 }
