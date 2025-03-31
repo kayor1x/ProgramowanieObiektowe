@@ -4,8 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="mathOp">
+    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd">
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Wyjatki/Wyjatki.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/ProgramowanieObiektowe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Inheritance/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Adres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Inheritance/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Shapes/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Shapes/Kwadrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/RunInput/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/RunInput/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/Task/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Task/Tasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +50,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2tl5mAHaWHGUPFfRadezofeXCoo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +65,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usike/IdeaProjects/ProgramowanieObiektowe/Laby/src",
+    "last_opened_file_path": "C:/Users/student/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/Laby/Lab6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,7 +75,36 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\NaZajęciach" />
+      <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab6\Wyjatki" />
+      <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\Laby\src\laby_1_i_2" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration name="RunLab6" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="envFilePaths">
+        <option value="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Main.java" />
+      </option>
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ProgramowanieObiektowe" />
       <method v="2">
@@ -93,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740915265854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upd">
+      <option name="closed" value="true" />
+      <created>1743409131546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743409131546</updated>
+    </task>
+    <task id="LOCAL-00003" summary="upd">
+      <option name="closed" value="true" />
+      <created>1743409140305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743409140305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +190,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mathOp" />
-    <option name="LAST_COMMIT_MESSAGE" value="mathOp" />
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
