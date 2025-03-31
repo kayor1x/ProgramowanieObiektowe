@@ -19,16 +19,15 @@ public class Book {
     // Gettery i settery z walidacją
     public String getTitle() { return title; }
     public void setTitle(String title) throws InvalidBookException {
-        if(title != null)
+        if (title != null)
             this.title = title;
-        else
-            throws InvalidBookException;
     }
     public String getAuthor() { return author; }
     public void setAuthor(String author) throws InvalidBookException { this.author = author; }
     public String getIsbn() { return isbn; }
     public void setIsbn(String isbn) throws InvalidBookException { this.isbn = isbn; }
-    public void toString(){
+    public String toString(){
         System.out.println("Title: " + this.title + "\nAuthor: " + this.author + "\nISBN: " + this.isbn);
+        return null;
     }
 }

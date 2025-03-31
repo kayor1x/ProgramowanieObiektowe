@@ -1,6 +1,6 @@
-package Shapes;
-
-public class Kwadrat{
-    int długość;
-    int szerokość;
-};
+//package Shapes;
+//
+//public class Kwadrat{
+//    int długość;
+//    int szerokość;
+//};
