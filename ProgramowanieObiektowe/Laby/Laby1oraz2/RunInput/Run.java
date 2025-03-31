@@ -4,15 +4,15 @@ import Task.Tasks;
 
 public class Run {
 
-    public void RunTask(){
+    public void RunTask() {
         //obiekt klas
         Tasks tasks = new Tasks();
         Input input = new Input();
         char selection;
-        while(true) {
+        while (true) {
             System.out.println("WYJDŻ wpisując 'Q' 'q' albo cokolwiek innego żeby KONTYNUOWAĆ");
             selection = input.InputChar();
-            if(selection == 'q' || selection == 'Q')
+            if (selection == 'q' || selection == 'Q')
                 break;
             System.out.println("1");
             System.out.println("2");
