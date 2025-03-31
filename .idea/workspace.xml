@@ -5,26 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd">
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Wyjatki/Wyjatki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/BookInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/ConsoleBookInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/InvalidBookException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/ProgramowanieObiektowe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Inheritance/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Adres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Inheritance/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Osoba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Shapes/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Shapes/Kwadrat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/RunInput/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/RunInput/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/laby_1_i_2/Task/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Task/Tasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +27,12 @@
     &quot;assignee&quot;: &quot;kayor1x&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kayor1x/ProgramowanieObiektowe.git",
-    "accountId": "49d20cd9-4f82-4f37-9813-f524e1aba794"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kayor1x/ProgramowanieObiektowe.git&quot;,
+    &quot;accountId&quot;: &quot;49d20cd9-4f82-4f37-9813-f524e1aba794&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -57,24 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/student/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/Laby/Lab6",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Subversion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/student/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/Laby/Lab6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -86,18 +78,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="RunLab6" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="envFilePaths">
-        <option value="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Main.java" />
-      </option>
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -159,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743409140305</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upd">
+      <option name="closed" value="true" />
+      <created>1743411503424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743411503424</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
