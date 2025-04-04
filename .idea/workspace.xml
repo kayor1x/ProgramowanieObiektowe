@@ -5,20 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd">
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/DzialaniaNaFigurach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostopadloscian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Stozek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Szescian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynki_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunki_Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Manage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Task/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Task/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/RunInput/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/RunInput/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Task/Tasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Task/Tasks.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,54 +68,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Manage (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Manage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Budynki_Main.executor": "Run",
+    "Application.DzialaniaNaFigurach.executor": "Run",
+    "Application.DzialaniaNaKlasach.executor": "Run",
+    "Application.Gatunki_Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Manage (1).executor": "Run",
+    "Application.Manage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur\Figury" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur" />
       <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\NaZajęciach" />
       <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab6\Wyjatki" />
       <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\Laby\src\laby_1_i_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Manage">
+  <component name="RunManager" selected="Application.Gatunki_Main">
+    <configuration name="Budynki_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Budynki_Main" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DzialaniaNaFigurach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DzialaniaNaFigurach" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gatunki_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Gatunki_Main" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ProgramowanieObiektowe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2" />
-      <method v="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Manage" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
@@ -105,7 +158,9 @@
       <option name="MAIN_CLASS_NAME" value="Manage" />
       <module name="ProgramowanieObiektowe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem" />
-      <method v="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
@@ -115,13 +170,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Gatunki_Main" />
+      <item itemvalue="Application.Budynki_Main" />
+      <item itemvalue="Application.DzialaniaNaFigurach" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Manage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Manage" />
+        <item itemvalue="Application.Gatunki_Main" />
+        <item itemvalue="Application.Budynki_Main" />
+        <item itemvalue="Application.DzialaniaNaFigurach" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Manage" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +213,11 @@
       <workItem from="1743433759002" duration="641000" />
       <workItem from="1743440150891" duration="906000" />
       <workItem from="1743441489639" duration="388000" />
+      <workItem from="1743442513180" duration="63000" />
+      <workItem from="1743498291420" duration="6191000" />
+      <workItem from="1743518774576" duration="5225000" />
+      <workItem from="1743695810392" duration="6872000" />
+      <workItem from="1743763741308" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
@@ -185,7 +251,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743411503424</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upd">
+      <option name="closed" value="true" />
+      <created>1743442531806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743442531808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upd">
+      <option name="closed" value="true" />
+      <created>1743442550814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743442550814</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

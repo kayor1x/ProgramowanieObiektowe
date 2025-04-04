@@ -4,8 +4,11 @@
     <output url="file://$MODULE_DIR$/out" />
     <output-test url="file://$MODULE_DIR$/test" />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

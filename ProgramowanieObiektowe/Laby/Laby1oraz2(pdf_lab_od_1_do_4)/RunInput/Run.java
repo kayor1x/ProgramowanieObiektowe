@@ -16,6 +16,8 @@ public class Run {
                 break;
             System.out.println("1");
             System.out.println("2");
+            System.out.println("3");
+            System.out.println("4");
             System.out.println("Wybierz numer labu:");
             int wyborLab = input.InputInt();
             switch (wyborLab) {
@@ -91,9 +93,78 @@ public class Run {
                     }
                     break;
                 }
-                default:
+                case 3: {
+                    System.out.println("Zadanie 1");
+                    System.out.println("Zadanie 2");
+                    System.out.println("Zadanie 3");
+                    System.out.println("Zadanie 4");
+                    System.out.println("Zadanie 5");
+                    System.out.println("Wybierz numer zadania labu:");
+                    int wyborZad = input.InputInt();
+                    switch (wyborZad) {
+                        case 1:
+                            tasks.sredniaLiczbaPunktow();
+                            break;
+                        case 2:
+                            tasks.sumaiIlosc();
+                            break;
+                        case 3:
+                            tasks.ciagParz();
+                            break;
+                        case 4:
+                            tasks.losoweParzyste();
+                            break;
+                        case 5:
+                            tasks.czyPalindrom();
+                            break;
+                        default:
+                            System.out.println("Nie ma takiego zadania");
+
+                    }
+                break;
+                }
+                case 4: {
+                    System.out.println("Zadanie 1");
+                    System.out.println("Zadanie 2");
+                    System.out.println("Zadanie 3");
+                    System.out.println("Zadanie 4");
+                    System.out.println("Zadanie 5");
+                    System.out.println("Zadanie 6");
+                    System.out.println("Zadanie 7");
+                    System.out.println("Wybierz numer zadania labu:");
+                    int wyborZad = input.InputInt();
+                    switch (wyborZad) {
+                        case 1:
+                           tasks.tabSumaSrednia();
+                            break;
+                        case 2:
+                            tasks.coDrugiElem();
+                            break;
+                        case 3:
+                            tasks.tabString();
+                            break;
+                        case 4:
+                            tasks.reverseText();
+                            break;
+                        case 5:
+                            tasks.sortIntTab();
+                            break;
+                        case 6:
+                            tasks.silniaTab();
+                            break;
+                        case 7:
+                            tasks.tabStringCompare();
+                            break;
+                        default:
+                            System.out.println("Nie ma takiego zadania");
+
+                    }
+                    break;
+                }
+                default: {
                     System.out.println("Nie ma takiego laba");
                     break;
+                }
 
             }
         }
