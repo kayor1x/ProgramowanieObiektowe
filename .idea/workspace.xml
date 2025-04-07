@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd">
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/DzialaniaNaFigurach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kwadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostokat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostopadloscian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Stozek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Szescian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynki_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunki_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Punkt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/RunInput/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Task/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Task/Tasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/RunInput/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/RunInput/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Task/Tasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Task/Tasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gatunek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Gatunek.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/kayor1x/ProgramowanieObiektowe.git&quot;,
-    &quot;accountId&quot;: &quot;5edd1f3b-850c-4424-b7dc-548ab926606d&quot;
+    &quot;accountId&quot;: &quot;e583b62f-e780-45a0-98c4-7397182284ff&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -68,40 +53,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Budynki_Main.executor": "Run",
-    "Application.DzialaniaNaFigurach.executor": "Run",
-    "Application.DzialaniaNaKlasach.executor": "Run",
-    "Application.Gatunki_Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Manage (1).executor": "Run",
-    "Application.Manage.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Budynki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DzialaniaNaFigurach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DzialaniaNaKlasach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figury_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gatunki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manage (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -114,7 +100,7 @@
       <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\Laby\src\laby_1_i_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Gatunki_Main">
+  <component name="RunManager" selected="Application.Figury_Main">
     <configuration name="Budynki_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -128,6 +114,15 @@
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="DzialaniaNaFigurach" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Figury_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Figury_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,16 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manage" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Manage" />
-      <module name="ProgramowanieObiektowe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -170,21 +155,29 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Figury_Main" />
       <item itemvalue="Application.Gatunki_Main" />
       <item itemvalue="Application.Budynki_Main" />
       <item itemvalue="Application.DzialaniaNaFigurach" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Manage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Figury_Main" />
         <item itemvalue="Application.Gatunki_Main" />
         <item itemvalue="Application.Budynki_Main" />
         <item itemvalue="Application.DzialaniaNaFigurach" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Manage" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -218,6 +211,7 @@
       <workItem from="1743518774576" duration="5225000" />
       <workItem from="1743695810392" duration="6872000" />
       <workItem from="1743763741308" duration="1410000" />
+      <workItem from="1743765676587" duration="2773000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
