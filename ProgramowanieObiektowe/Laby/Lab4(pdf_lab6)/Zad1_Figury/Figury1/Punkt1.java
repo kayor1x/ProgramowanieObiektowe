@@ -1,16 +1,22 @@
-public class Punkt {
+package Figury1;
+
+public class Punkt1 {
     String nazwa;
     int x, y;
-    public Punkt() {
+    public Punkt1() {
         nazwa = "null";
         x = 0;
         y = 0;
     }
-    public Punkt(String nazwa, int x, int y) {
+    public Punkt1(String nazwa, int x, int y) {
         this.nazwa = nazwa;
         this.x = x;
         this.y = y;
     }
+
+    public Punkt1(int i, int i1) {
+    }
+
     public int getX() {return x;}
     public int getY() {return y;}
     public void setX(int x) {this.x = x;}
@@ -29,7 +35,7 @@ public class Punkt {
     public void viewData(){
         System.out.println("Nazwa: " + this.nazwa + ", X: " + this.x + ", Y: " + this.y);
     }
-    
+    public String opis(){return "klasa Punkt1";}
     
 }
 
