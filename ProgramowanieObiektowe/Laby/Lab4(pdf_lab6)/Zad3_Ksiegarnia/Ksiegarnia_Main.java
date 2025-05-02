@@ -11,8 +11,8 @@ public class Ksiegarnia_Main {
         ksiegarnia.dodajKsiazke(ks1);
         ksiegarnia.dodajKsiazke(ks2);
 
-        Klient klient1 = new Klient("Anna", "Nowak");
-        ksiegarnia.dodajKlienta(klient1);
+        Klient klient = new Klient("Anna", "Nowak");
+        ksiegarnia.dodajKlienta(klient);
 
         ksiegarnia.wyswietlKsiazke(0);
         ksiegarnia.wyswietlKsiazke(1);

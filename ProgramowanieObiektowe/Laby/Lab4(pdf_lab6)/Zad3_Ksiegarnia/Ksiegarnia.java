@@ -26,7 +26,7 @@ public class Ksiegarnia {
     }
     void wyswietlKsiazke(int index){
         ksiazki[index].wyswietlInfo();
-    }
+      }
     void wyswietlKlienta(int index){
         klienci[index].wyswietlInfo();
     }

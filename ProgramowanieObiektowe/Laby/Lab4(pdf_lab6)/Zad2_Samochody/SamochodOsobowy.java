@@ -29,7 +29,6 @@ class SamochodOsobowy extends Samochod {
         this.iloscOsob = scanner.nextInt();
     }
 
-    @Override
     public void wyswietlInfo() {
         super.wyswietlInfo();
         System.out.println("Waga: " + waga + " t");
