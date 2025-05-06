@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd" />
+    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 5 zrobiony">
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad5_reverse/Reverse_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/BookNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/DuplicateBookException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Map zad 1 10 lab/xuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/Gracz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/Gracz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/ListaStudentow_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/Lista_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/BookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/ConsoleBookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/InvalidBookException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Manage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Exception" />
         <option value="Class" />
+        <option value="Exception" />
       </list>
     </option>
   </component>
@@ -29,12 +44,12 @@
     &quot;assignee&quot;: &quot;kayor1x&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kayor1x/ProgramowanieObiektowe.git&quot;,
-    &quot;accountId&quot;: &quot;e583b62f-e780-45a0-98c4-7397182284ff&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kayor1x/ProgramowanieObiektowe.git",
+    "accountId": "5edd1f3b-850c-4424-b7dc-548ab926606d"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -53,85 +68,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Adres_Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Budynki_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DzialaniaNaFigurach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DzialaniaNaKlasach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Figures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Figures_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Figury_Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Figury_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gatunki_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Imiona.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ksiegarnia_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Manage (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Manage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pierwiastek_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Samochody.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Silnia_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Transport_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Wydarzenie_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maps.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28409094&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Adres_Main.executor": "Debug",
+    "Application.Budynki_Main.executor": "Run",
+    "Application.DzialaniaNaFigurach.executor": "Run",
+    "Application.DzialaniaNaKlasach.executor": "Run",
+    "Application.Figures.executor": "Run",
+    "Application.Figures_Main.executor": "Run",
+    "Application.Figury_Main (1).executor": "Run",
+    "Application.Figury_Main.executor": "Run",
+    "Application.Gatunki_Main.executor": "Run",
+    "Application.Imiona.executor": "Run",
+    "Application.Ksiegarnia_Main.executor": "Run",
+    "Application.Lista_Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Manage (1).executor": "Run",
+    "Application.Manage.executor": "Run",
+    "Application.Pary.executor": "Run",
+    "Application.Pierwiastek_Main.executor": "Run",
+    "Application.Reverse_Main.executor": "Run",
+    "Application.Samochody.executor": "Run",
+    "Application.Silnia_Main.executor": "Run",
+    "Application.Transport_Main.executor": "Run",
+    "Application.Wydarzenie_Main.executor": "Run",
+    "Application.maps.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.splitter.proportion": "0.28409094",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\LibraryManagementSystem" />
       <recent name="C:\Users\usike\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby" />
       <recent name="C:\Users\usike\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab6(pdf_lab_8_9_biblioteka)" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab4(pdf_lab6)\Zad1_Figury\Figury" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur\Figury" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="Figury" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Wydarzenie_Main">
-    <configuration name="Adres_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Reverse_Main">
+    <configuration name="Imiona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Adres_Main" />
+      <option name="MAIN_CLASS_NAME" value="Imiona" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Imiona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lista_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Imiona" />
+      <option name="MAIN_CLASS_NAME" value="Lista_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,10 +163,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Silnia_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Silnia_Main" />
+      <option name="MAIN_CLASS_NAME" value="Reverse_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,29 +189,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Adres_Main" />
+      <item itemvalue="Application.Reverse_Main" />
+      <item itemvalue="Application.Lista_Main" />
       <item itemvalue="Application.Imiona" />
       <item itemvalue="Application.Pary" />
-      <item itemvalue="Application.Silnia_Main" />
       <item itemvalue="Application.Wydarzenie_Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Main" />
+        <item itemvalue="Application.Lista_Main" />
         <item itemvalue="Application.Wydarzenie_Main" />
         <item itemvalue="Application.Pary" />
         <item itemvalue="Application.Imiona" />
-        <item itemvalue="Application.Adres_Main" />
-        <item itemvalue="Application.Silnia_Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -235,7 +244,8 @@
       <workItem from="1745827814637" duration="884000" />
       <workItem from="1746165297476" duration="15581000" />
       <workItem from="1746246275087" duration="19616000" />
-      <workItem from="1746515536165" duration="211000" />
+      <workItem from="1746521819593" duration="1636000" />
+      <workItem from="1746523599652" duration="4580000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
@@ -317,15 +327,7 @@
       <option name="project" value="LOCAL" />
       <updated>1746182664102</updated>
     </task>
-    <task id="LOCAL-00011" summary="upd">
-      <option name="closed" value="true" />
-      <created>1746515737851</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746515737851</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,10 +358,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mathOp" />
+    <MESSAGE value="upd" />
     <MESSAGE value="lab 4 zrobiony" />
     <MESSAGE value="lab 5 zrobiony" />
-    <MESSAGE value="upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 5 zrobiony" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

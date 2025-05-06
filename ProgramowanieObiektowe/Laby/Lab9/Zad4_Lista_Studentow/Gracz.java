@@ -9,5 +9,12 @@ public class Gracz {
         this.wiek = wiek;
     }
 
-
+    @Override
+    public String toString() {
+        return "Gracz{" +
+                "pseudonim='" + pseudonim + '\'' +
+                ", imie='" + imie + '\'' +
+                ", wiek=" + wiek +
+                '}';
+    }
 }
