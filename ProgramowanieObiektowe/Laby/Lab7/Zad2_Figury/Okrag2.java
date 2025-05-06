@@ -13,7 +13,7 @@ public class Okrag2 extends Figura2 implements RuchFigury{
     public void przesun(int x, int y) {
         this.srodekX += x;
         this.srodekY += y;
-        System.out.println(srodekX-x + " -> " + srodekX + ", " +  srodekY-y + " -> " + srodekY);
+        System.out.println((srodekX-x) + " -> " + srodekX + ", " +  (srodekY-y) + " -> " + srodekY);
     }
 
     public String opis() {return "Okrag o wymiarach a wspolrzednych: " + promien + " " +  srodekX + " " + srodekY;}

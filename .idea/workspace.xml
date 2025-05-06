@@ -4,25 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 4 zrobiony">
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/E_Hulajnoga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Pojazd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Rower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Samochod1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Transport_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Wypozyczalnia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/IFigury.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/Okrag2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/RuchFigury.java" afterDir="false" />
+    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 5 zrobiony">
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad1_Pierwiastek/Pierwiastek_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad2_Silnia/BlednaWartoscDlaSilniException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad2_Silnia/Silnia_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/Adres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/Adres_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/NieprawidlowyAdresException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad1_Imiona/Imiona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad2_Pary/Pary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad3_Wydarzenie/Uczestnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad3_Wydarzenie/Uczestniki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad3_Wydarzenie/Wydarzenie_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/Gracz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/ListaStudentow_Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/SamochodOsobowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/SamochodOsobowy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Shapes/Kwadrat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Ksiegarnia_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Ksiegarnia_Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SamochodOsobowy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SamochodOsobowy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/DzialaniaNaFigurach.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/DzialaniaNaFigurach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Kolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kula.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Kula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Kwadrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostopadloscian.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Prostopadloscian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Stozek.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Stozek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Szescian.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Szescian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynek.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad2_Budynki/Budynek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynki_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad2_Budynki/Budynki_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunek.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad3_Gatunki/Gatunek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunki_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad3_Gatunki/Gatunki_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Kwadrat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Kwadrat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Okrag1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Okrag1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Prostokat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Prostokat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Punkt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Punkt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Trojkat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Trojkat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/Samochod.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad2_Samochody/Samochod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/SamochodOsobowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad2_Samochody/SamochodOsobowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/Samochody.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad2_Samochody/Samochody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Klient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Klient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiazka.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Ksiazka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Ksiegarnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Ksiegarnia_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Podrecznik.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Podrecznik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Powiesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Powiesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/RunInput/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/RunInput/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Task/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/Task/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/E_Hulajnoga.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/E_Hulajnoga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Pojazd.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Pojazd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Rower.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Rower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Samochod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Samochod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Transport_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Transport_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Wypozyczalnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Wypozyczalnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/IFigury.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad2_Figury/IFigury.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/Okrag2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad2_Figury/Okrag2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/RuchFigury.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad2_Figury/RuchFigury.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Adres1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Manage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +78,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Exception" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,12 +94,12 @@
     &quot;assignee&quot;: &quot;kayor1x&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kayor1x/ProgramowanieObiektowe.git",
-    "accountId": "e583b62f-e780-45a0-98c4-7397182284ff"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kayor1x/ProgramowanieObiektowe.git&quot;,
+    &quot;accountId&quot;: &quot;e583b62f-e780-45a0-98c4-7397182284ff&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -74,6 +121,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Adres_Main.executor": "Debug",
     "Application.Budynki_Main.executor": "Run",
     "Application.DzialaniaNaFigurach.executor": "Run",
     "Application.DzialaniaNaKlasach.executor": "Run",
@@ -82,12 +130,17 @@
     "Application.Figury_Main (1).executor": "Run",
     "Application.Figury_Main.executor": "Run",
     "Application.Gatunki_Main.executor": "Run",
+    "Application.Imiona.executor": "Run",
     "Application.Ksiegarnia_Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Manage (1).executor": "Run",
     "Application.Manage.executor": "Run",
+    "Application.Pary.executor": "Run",
+    "Application.Pierwiastek_Main.executor": "Run",
     "Application.Samochody.executor": "Run",
+    "Application.Silnia_Main.executor": "Run",
     "Application.Transport_Main.executor": "Run",
+    "Application.Wydarzenie_Main.executor": "Run",
     "Application.maps.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -119,58 +172,58 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usike\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby" />
+      <recent name="C:\Users\usike\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab6(pdf_lab_8_9_biblioteka)" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab4(pdf_lab6)\Zad1_Figury\Figury" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur\Figury" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur" />
-      <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\NaZajęciach" />
-      <recent name="C:\Users\student\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab6\Wyjatki" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="Figury" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Figures_Main">
-    <configuration name="Figures_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Wydarzenie_Main">
+    <configuration name="Adres_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Figures_Main" />
+      <option name="MAIN_CLASS_NAME" value="Adres_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ksiegarnia_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Imiona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Ksiegarnia_Main" />
+      <option name="MAIN_CLASS_NAME" value="Imiona" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Pary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Pary" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samochody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Silnia_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Samochody" />
+      <option name="MAIN_CLASS_NAME" value="Silnia_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Transport_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Wydarzenie_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Transport_Main" />
+      <option name="MAIN_CLASS_NAME" value="Wydarzenie_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -184,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Figures_Main" />
-      <item itemvalue="Application.Transport_Main" />
-      <item itemvalue="Application.Ksiegarnia_Main" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Samochody" />
+      <item itemvalue="Application.Adres_Main" />
+      <item itemvalue="Application.Imiona" />
+      <item itemvalue="Application.Pary" />
+      <item itemvalue="Application.Silnia_Main" />
+      <item itemvalue="Application.Wydarzenie_Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Figures_Main" />
-        <item itemvalue="Application.Transport_Main" />
-        <item itemvalue="Application.Ksiegarnia_Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Samochody" />
+        <item itemvalue="Application.Wydarzenie_Main" />
+        <item itemvalue="Application.Pary" />
+        <item itemvalue="Application.Imiona" />
+        <item itemvalue="Application.Adres_Main" />
+        <item itemvalue="Application.Silnia_Main" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +298,8 @@
       <workItem from="1744617631733" duration="2970000" />
       <workItem from="1745827283109" duration="91000" />
       <workItem from="1745827814637" duration="884000" />
-      <workItem from="1746165297476" duration="15267000" />
+      <workItem from="1746165297476" duration="15581000" />
+      <workItem from="1746246275087" duration="19616000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
@@ -319,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746091592869</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lab 5 zrobiony">
+      <option name="closed" value="true" />
+      <created>1746182664102</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746182664102</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +414,28 @@
     <MESSAGE value="mathOp" />
     <MESSAGE value="upd" />
     <MESSAGE value="lab 4 zrobiony" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 4 zrobiony" />
+    <MESSAGE value="lab 5 zrobiony" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 5 zrobiony" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/Adres_Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/Adres.java</url>
+          <line>6</line>
+          <properties class="Adres" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

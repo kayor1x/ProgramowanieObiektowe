@@ -1,10 +1,10 @@
 //package Inheritance;
 //
-//public class Adres{
+//public class Adres1{
 //    String ulica, nrDomu, nrMieszkania;
 //    String kodPocztowy, miasto;
 //
-//    public Adres(String ulica, String nrDomu, String nrMieszkania, String kodPocztowy, String miasto)
+//    public Adres1(String ulica, String nrDomu, String nrMieszkania, String kodPocztowy, String miasto)
 //    {
 //        this.ulica = ulica;
 //        this.nrDomu = nrDomu;
