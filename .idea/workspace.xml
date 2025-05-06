@@ -4,72 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 5 zrobiony">
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad1_Pierwiastek/Pierwiastek_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad2_Silnia/BlednaWartoscDlaSilniException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad2_Silnia/Silnia_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/Adres_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab8/Zad3_Adres/NieprawidlowyAdresException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad1_Imiona/Imiona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad2_Pary/Pary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad3_Wydarzenie/Uczestnik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad3_Wydarzenie/Uczestniki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad3_Wydarzenie/Wydarzenie_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/Gracz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow/ListaStudentow_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/DzialaniaNaFigurach.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/DzialaniaNaFigurach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Kolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kula.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Kula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Kwadrat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Prostokat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Prostopadloscian.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Prostopadloscian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Stozek.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Stozek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad1_calcFigur/Figury/Szescian.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad1_calcFigur/Figury/Szescian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynek.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad2_Budynki/Budynek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad2_Budynki/Budynki_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad2_Budynki/Budynki_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunek.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad3_Gatunki/Gatunek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab3(pdf_lab5)/Zad3_Gatunki/Gatunki_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab5/Zad3_Gatunki/Gatunki_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Figura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Kwadrat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Kwadrat1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Okrag1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Okrag1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Prostokat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Prostokat1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Punkt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Punkt1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury1/Trojkat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury1/Trojkat1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad1_Figury/Figury_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad1_Figury/Figury_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/Samochod.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad2_Samochody/Samochod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/SamochodOsobowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad2_Samochody/SamochodOsobowy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad2_Samochody/Samochody.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad2_Samochody/Samochody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Klient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Klient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiazka.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Ksiazka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Ksiegarnia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Ksiegarnia_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Ksiegarnia_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Podrecznik.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Podrecznik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab4(pdf_lab6)/Zad3_Ksiegarnia/Powiesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab6/Zad3_Ksiegarnia/Powiesc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/RunInput/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/RunInput/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/RunInput/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Laby1oraz2(pdf_lab_od_1_do_4)/Task/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab1_4/Task/Tasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/E_Hulajnoga.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/E_Hulajnoga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Pojazd.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Pojazd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Rower.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Rower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Samochod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Samochod1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Transport_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Transport_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad1_Transport/Wypozyczalnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad1_Transport/Wypozyczalnia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/IFigury.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad2_Figury/IFigury.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/Okrag2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad2_Figury/Okrag2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/lab5(pdf_lab7)/Zad2_Figury/RuchFigury.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab7/Zad2_Figury/RuchFigury.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Inheritance/Adres1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/BookInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/ConsoleBookInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/InvalidBookException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/LibraryManagementSystem/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/LibraryManagementSystem/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Manage.java" afterDir="false" />
-    </list>
+    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,55 +53,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Adres_Main.executor": "Debug",
-    "Application.Budynki_Main.executor": "Run",
-    "Application.DzialaniaNaFigurach.executor": "Run",
-    "Application.DzialaniaNaKlasach.executor": "Run",
-    "Application.Figures.executor": "Run",
-    "Application.Figures_Main.executor": "Run",
-    "Application.Figury_Main (1).executor": "Run",
-    "Application.Figury_Main.executor": "Run",
-    "Application.Gatunki_Main.executor": "Run",
-    "Application.Imiona.executor": "Run",
-    "Application.Ksiegarnia_Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Manage (1).executor": "Run",
-    "Application.Manage.executor": "Run",
-    "Application.Pary.executor": "Run",
-    "Application.Pierwiastek_Main.executor": "Run",
-    "Application.Samochody.executor": "Run",
-    "Application.Silnia_Main.executor": "Run",
-    "Application.Transport_Main.executor": "Run",
-    "Application.Wydarzenie_Main.executor": "Run",
-    "Application.maps.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "settings.editor.splitter.proportion": "0.28409094",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Adres_Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Budynki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DzialaniaNaFigurach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DzialaniaNaKlasach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figures_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figury_Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figury_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gatunki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Imiona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ksiegarnia_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manage (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pierwiastek_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Samochody.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Silnia_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transport_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wydarzenie_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maps.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28409094&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -300,6 +235,7 @@
       <workItem from="1745827814637" duration="884000" />
       <workItem from="1746165297476" duration="15581000" />
       <workItem from="1746246275087" duration="19616000" />
+      <workItem from="1746515536165" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
@@ -381,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746182664102</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="upd">
+      <option name="closed" value="true" />
+      <created>1746515737851</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746515737851</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,10 +356,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mathOp" />
-    <MESSAGE value="upd" />
     <MESSAGE value="lab 4 zrobiony" />
     <MESSAGE value="lab 5 zrobiony" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 5 zrobiony" />
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
