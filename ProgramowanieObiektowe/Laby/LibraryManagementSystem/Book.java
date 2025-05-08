@@ -4,9 +4,23 @@ public class Book {
     private String author;
     private String isbn;
     // Konstruktor z walidacją danych (rzuca wyjątek)
-    public Book(String title, String author, String isbn) throws
-            InvalidBookException {
-        // ustawienie pól z walidacją
+    public Book(String title, String author, String isbn) throws InvalidBookException {
+        String blad = "";
+        if (title == null || title == "null" || title.trim().isEmpty()) {
+            blad = blad.concat("\nTitle nie może być nullem lub pustym. ");
+        }
+        if (author == null  || author == "null" || author.trim().isEmpty()) {
+            blad = blad.concat("\nAuthor nie moze byc nullem lub pustym. ");
+        }
+        if (isbn == null || isbn == "null"  || isbn.trim().isEmpty()) {
+            blad = blad.concat("\nISBN nie moze byc nullem lub pustym. ");
+        }
+        if(blad.length() > 0){
+            throw new NieprawidlowyAdresException(blad);
+        }
+        this.title = title;
+        this.author = author;
+        this.isbn = isbn;
     }
 
     // Gettery i settery z walidacją

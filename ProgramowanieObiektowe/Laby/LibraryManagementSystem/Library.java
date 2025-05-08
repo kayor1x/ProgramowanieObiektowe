@@ -9,7 +9,7 @@ public class Library {
         if(books.containsKey(book.getIsbn())) {
             throw new DuplicateBookException("Taka książka już istnieje");
         }
-        books.put(book.getIsbn(), book);
+        this.books.put(book.getIsbn(), book);
 
     }
     // Usuwanie książki (CRUD - Delete)
@@ -26,14 +26,18 @@ public class Library {
         if(!books.containsKey(isbn)) {
             throw new BookNotFoundException("Książki o ISBN: " + isbn + " - nie znaleziono");
         }
-        books.replace(isbn, updatedBook);
+        books.remove(isbn);
+        books.put(updatedBook.getIsbn(), updatedBook);
     }
     // Lista książek (CRUD - Read)
     public void listBooks() {
 // wypisanie wszystkich książek
-        for(Map.Entry<String, Book> entry : books.entrySet()) {
-            System.out.println(entry.getKey() + " - " + entry.getValue());
-
+        if (books.isEmpty()) {
+            System.out.println("Twoja biblioteka nie ma książek, dodaj dla początku za pomocy '1'");
+        } else {
+            for (Map.Entry<String, Book> entry : this.books.entrySet()) {
+                System.out.println(entry.getKey() + " - " + entry.getValue().toString());
+            }
         }
     }
     // Wyszukiwanie książki po ISBN
@@ -41,6 +45,6 @@ public class Library {
     if(!books.containsKey(isbn)) {
         throw new BookNotFoundException("Książki o ISBN: " + isbn + " - nie znaleziono");
     }
-    System.out.println(books.entrySet());
+    System.out.println(books.get(isbn).toString());
     }
 }
