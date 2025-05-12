@@ -8,7 +8,7 @@ public class maps {
         System.out.println("Podaj tekst:");
         String text = input.nextLine();
 
-        //text = text.toLowerCase().replaceAll("[^a-ząćęłńóśżź0-9\\s] ", "");
+
         text = text.toLowerCase().replaceAll("[.,!?;:]", "");
 
         String[] words = text.split("\\s++");
@@ -27,3 +27,5 @@ public class maps {
 
     }
 }
+
+//text = text.toLowerCase().replaceAll("[^a-ząćęłńóśżź0-9\\s] ", "");

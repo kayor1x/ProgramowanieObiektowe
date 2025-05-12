@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="upd">
+    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 8, 9 i Library zrobione">
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad2_Login/InvalidLoginOrPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad2_Login/Login_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad3_Dania/Dania_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad1/Swiatla_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad2_Pizza/Pizza_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab12/Zad1_Pesel/Pesel_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab12/Zad1_Pesel/pesele.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/FactorialThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/SumThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Watki_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/ConsoleBookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/ConsoleBookInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem/Manage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Manage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Manage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Map zad 1 10 lab/maps.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad1_Liczba_Wyrazow/maps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Map zad 1 10 lab/xuy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/xuy.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +74,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Adres_Main.executor": "Debug",
     "Application.Budynki_Main.executor": "Run",
+    "Application.Dania_Main.executor": "Run",
     "Application.DzialaniaNaFigurach.executor": "Run",
     "Application.DzialaniaNaKlasach.executor": "Run",
     "Application.Figures.executor": "Run",
@@ -74,13 +84,17 @@
     "Application.Gatunki_Main.executor": "Run",
     "Application.Imiona.executor": "Run",
     "Application.Ksiegarnia_Main.executor": "Run",
+    "Application.Login_Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Manage (1).executor": "Run",
     "Application.Manage.executor": "Run",
     "Application.Pary.executor": "Run",
+    "Application.Pesel_Main.executor": "Run",
     "Application.Pierwiastek_Main.executor": "Run",
+    "Application.Pizza_Main.executor": "Run",
     "Application.Samochody.executor": "Run",
     "Application.Silnia_Main.executor": "Run",
+    "Application.Swiatla_Main.executor": "Run",
     "Application.Transport_Main.executor": "Run",
     "Application.Wydarzenie_Main.executor": "Run",
     "Application.maps.executor": "Run",
@@ -125,47 +139,47 @@
       <recent name="Figury" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Manage">
-    <configuration name="Adres_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Pesel_Main">
+    <configuration name="Dania_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Adres_Main" />
+      <option name="MAIN_CLASS_NAME" value="Dania_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Imiona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Login_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Imiona" />
+      <option name="MAIN_CLASS_NAME" value="Login_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Pesel_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Manage" />
+      <option name="MAIN_CLASS_NAME" value="Pesel_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Pizza_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Pary" />
+      <option name="MAIN_CLASS_NAME" value="Pizza_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wydarzenie_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Swiatla_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Wydarzenie_Main" />
+      <option name="MAIN_CLASS_NAME" value="Swiatla_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,19 +193,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Manage" />
-      <item itemvalue="Application.Adres_Main" />
-      <item itemvalue="Application.Imiona" />
-      <item itemvalue="Application.Pary" />
-      <item itemvalue="Application.Wydarzenie_Main" />
+      <item itemvalue="Application.Pesel_Main" />
+      <item itemvalue="Application.Dania_Main" />
+      <item itemvalue="Application.Pizza_Main" />
+      <item itemvalue="Application.Swiatla_Main" />
+      <item itemvalue="Application.Login_Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Manage" />
-        <item itemvalue="Application.Wydarzenie_Main" />
-        <item itemvalue="Application.Pary" />
-        <item itemvalue="Application.Imiona" />
-        <item itemvalue="Application.Adres_Main" />
+        <item itemvalue="Application.Pesel_Main" />
+        <item itemvalue="Application.Pizza_Main" />
+        <item itemvalue="Application.Swiatla_Main" />
+        <item itemvalue="Application.Dania_Main" />
+        <item itemvalue="Application.Login_Main" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +257,12 @@
       <workItem from="1746165297476" duration="15581000" />
       <workItem from="1746246275087" duration="19616000" />
       <workItem from="1746515536165" duration="211000" />
-      <workItem from="1746706885149" duration="2735000" />
+      <workItem from="1746706885149" duration="3797000" />
+      <workItem from="1746802313263" duration="2946000" />
+      <workItem from="1746854079106" duration="2578000" />
+      <workItem from="1746869561123" duration="12230000" />
+      <workItem from="1746950177991" duration="594000" />
+      <workItem from="1747055108840" duration="9117000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
@@ -333,7 +352,47 @@
       <option name="project" value="LOCAL" />
       <updated>1746515737851</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lab 8, 9 i Library zrobione">
+      <option name="closed" value="true" />
+      <created>1746709769278</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746709769278</updated>
+    </task>
+    <task id="LOCAL-00013" summary="lab 8, 9 i Library zrobione">
+      <option name="closed" value="true" />
+      <created>1746709778745</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746709778745</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lab 8, 9 i Library zrobione">
+      <option name="closed" value="true" />
+      <created>1746709779825</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746709779825</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lab 8, 9 i Library zrobione">
+      <option name="closed" value="true" />
+      <created>1746709785827</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746709785827</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lab 8, 9 i Library zrobione">
+      <option name="closed" value="true" />
+      <created>1746709786587</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746709786587</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +426,8 @@
     <MESSAGE value="lab 4 zrobiony" />
     <MESSAGE value="lab 5 zrobiony" />
     <MESSAGE value="upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd" />
+    <MESSAGE value="lab 8, 9 i Library zrobione" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 8, 9 i Library zrobione" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

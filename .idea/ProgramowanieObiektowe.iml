@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21_PREVIEW">
     <output url="file://$MODULE_DIR$/out" />
     <output-test url="file://$MODULE_DIR$/test" />
     <content url="file://$MODULE_DIR$">
@@ -30,6 +30,13 @@
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad4_Lista_Studentow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/LibraryManagementSystem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab9/Zad5_reverse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad1_Liczba_Wyrazow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad2_Login" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad3_Dania" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad2_Pizza" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab12/Zad1_Pesel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
