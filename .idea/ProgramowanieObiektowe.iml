@@ -37,8 +37,19 @@
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad2_Pizza" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab12/Zad1_Pesel" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab14/Zad1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab14/Zad1/JDBC/mysql-connector-j-9.3.0/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/ProgramowanieObiektowe/Laby/Lab14/Zad1/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

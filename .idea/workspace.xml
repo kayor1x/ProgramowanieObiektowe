@@ -4,22 +4,150 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 8, 9 i Library zrobione">
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad2_Login/InvalidLoginOrPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad2_Login/Login_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad3_Dania/Dania_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad1/Swiatla_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab11/Zad2_Pizza/Pizza_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab12/Zad1_Pesel/Pesel_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab12/Zad1_Pesel/pesele.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/FactorialThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/SumThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Watki_Main.java" afterDir="false" />
+    <list default="true" id="6e949585-5397-4b68-80b4-9470e381b996" name="Changes" comment="lab 5 zrobiony">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_05_2025_10_40_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_05_2025_10_40__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab14/Zad1/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab14/Zad1/DB_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab14/Zad1/PersonCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/CHANGES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/INFO_BIN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/INFO_SRC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/Product.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/changelog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/compat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/control" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/copyright" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/source/format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/debian.in/watch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/build/misc/rpm.spec.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/doc/connector-j-overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/doc/mysqlx-overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/LocalizedErrorMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/TlsSettings.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/3-0-Compat.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/clusterBase.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/coldFusion.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/fullDebug.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/maxPerformance-8-0.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/maxPerformance.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/configurations/solarisMaxPerformance.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/main/resources/com/mysql/cj/util/TimeZoneMapping.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/ca-cert-ext.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/ca-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/ca-key-ext.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/ca-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/ca-truststore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/ca-truststore-ext" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/certs_howto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/client-cert-ext.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/client-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/client-key-ext.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/client-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/client-keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/client-keystore-ext" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/mykey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/mykey.pub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/server-cert-ext.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/server-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/server-key-ext.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/mysql-connector-j-9.3.0/src/test/config/ssl-test-certs/server-key.pem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramowanieObiektowe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2025_09_22_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2025_09_22__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2025_09_24_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_05_2025_09_24__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Map zad 1 10 lab/maps.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab10/Zad1_Liczba_Wyrazow/maps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/NaZajęciach/Map zad 1 10 lab/xuy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/xuy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/FactorialThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/FactorialThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/SumThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Threads/SumThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Watki_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe/Laby/Lab13/Zad1/Watki_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Adres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Adres_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BlednaWartoscDlaSilniException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BookInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BookNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Budynek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Budynki_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ConsoleBookInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Dania_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DuplicateBookException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DzialaniaNaFigurach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/E_Hulajnoga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figura2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figures_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Kolo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Kula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Kwadrat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Prostopadloscian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Stozek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury/Szescian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury1/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury1/Kwadrat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury1/Okrag1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury1/Prostokat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury1/Punkt1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury1/Trojkat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Figury_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gatunek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gatunki_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gracz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IFigury.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Imiona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/InvalidBookException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/InvalidLoginOrPasswordException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Klient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Ksiazka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Ksiegarnia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Ksiegarnia_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Kwadrat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Lista_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Login_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Manage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/NieprawidlowyAdresException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Okrag2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pesel_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pierwiastek_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pizza_Main$PizzaSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pizza_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Podrecznik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pojazd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Powiesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Prostokat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Punkt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Reverse_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Rower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/RuchFigury.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/RunInput/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/RunInput/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Samochod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Samochod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/SamochodOsobowy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Samochody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Silnia_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Swiatla_Main$Swiatlo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Swiatla_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Task/Tasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Transport_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Trojkat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Uczestnik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Uczestniki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Wydarzenie_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Wypozyczalnia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/maps.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +176,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/kayor1x/ProgramowanieObiektowe.git&quot;,
-    &quot;accountId&quot;: &quot;e583b62f-e780-45a0-98c4-7397182284ff&quot;
+    &quot;accountId&quot;: &quot;5edd1f3b-850c-4424-b7dc-548ab926606d&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -69,117 +197,117 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Adres_Main.executor": "Debug",
-    "Application.Budynki_Main.executor": "Run",
-    "Application.Dania_Main.executor": "Run",
-    "Application.DzialaniaNaFigurach.executor": "Run",
-    "Application.DzialaniaNaKlasach.executor": "Run",
-    "Application.Figures.executor": "Run",
-    "Application.Figures_Main.executor": "Run",
-    "Application.Figury_Main (1).executor": "Run",
-    "Application.Figury_Main.executor": "Run",
-    "Application.Gatunki_Main.executor": "Run",
-    "Application.Imiona.executor": "Run",
-    "Application.Ksiegarnia_Main.executor": "Run",
-    "Application.Login_Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Manage (1).executor": "Run",
-    "Application.Manage.executor": "Run",
-    "Application.Pary.executor": "Run",
-    "Application.Pesel_Main.executor": "Run",
-    "Application.Pierwiastek_Main.executor": "Run",
-    "Application.Pizza_Main.executor": "Run",
-    "Application.Samochody.executor": "Run",
-    "Application.Silnia_Main.executor": "Run",
-    "Application.Swiatla_Main.executor": "Run",
-    "Application.Transport_Main.executor": "Run",
-    "Application.Wydarzenie_Main.executor": "Run",
-    "Application.maps.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/NaZajęciach/LibraryManagementSystem",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "settings.editor.splitter.proportion": "0.28409094",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Adres_Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Budynki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DB_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DzialaniaNaFigurach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DzialaniaNaKlasach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figures_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figury_Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Figury_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gatunki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Imiona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ksiegarnia_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lista_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manage (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Manage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pierwiastek_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Samochody.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Silnia_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Transport_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Watki_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wydarzenie_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maps.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ProgramowanieObiektowe/ProgramowanieObiektowe/Laby/Lab14/Zad1/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28409094&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab14\Zad1\JDBC" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\LibraryManagementSystem" />
       <recent name="C:\Users\usike\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby" />
       <recent name="C:\Users\usike\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab6(pdf_lab_8_9_biblioteka)" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab4(pdf_lab6)\Zad1_Figury\Figury" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur\Figury" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\ProgramowanieObiektowe\ProgramowanieObiektowe\Laby\Lab3(pdf_lab5)\Zad1_calcFigur" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="Figury" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pesel_Main">
-    <configuration name="Dania_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DB_Main">
+    <configuration name="DB_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Dania_Main" />
+      <option name="MAIN_CLASS_NAME" value="DB_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Lista_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Login_Main" />
+      <option name="MAIN_CLASS_NAME" value="Lista_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pesel_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Pesel_Main" />
+      <option name="MAIN_CLASS_NAME" value="Reverse_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pizza_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Watki_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Pizza_Main" />
+      <option name="MAIN_CLASS_NAME" value="Watki_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swiatla_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Wydarzenie_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Swiatla_Main" />
+      <option name="MAIN_CLASS_NAME" value="Wydarzenie_Main" />
       <module name="ProgramowanieObiektowe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -193,29 +321,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pesel_Main" />
-      <item itemvalue="Application.Dania_Main" />
-      <item itemvalue="Application.Pizza_Main" />
-      <item itemvalue="Application.Swiatla_Main" />
-      <item itemvalue="Application.Login_Main" />
+      <item itemvalue="Application.DB_Main" />
+      <item itemvalue="Application.Watki_Main" />
+      <item itemvalue="Application.Reverse_Main" />
+      <item itemvalue="Application.Lista_Main" />
+      <item itemvalue="Application.Wydarzenie_Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pesel_Main" />
-        <item itemvalue="Application.Pizza_Main" />
-        <item itemvalue="Application.Swiatla_Main" />
-        <item itemvalue="Application.Dania_Main" />
-        <item itemvalue="Application.Login_Main" />
+        <item itemvalue="Application.DB_Main" />
+        <item itemvalue="Application.Watki_Main" />
+        <item itemvalue="Application.Reverse_Main" />
+        <item itemvalue="Application.Lista_Main" />
+        <item itemvalue="Application.Wydarzenie_Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -256,13 +376,12 @@
       <workItem from="1745827814637" duration="884000" />
       <workItem from="1746165297476" duration="15581000" />
       <workItem from="1746246275087" duration="19616000" />
-      <workItem from="1746515536165" duration="211000" />
-      <workItem from="1746706885149" duration="3797000" />
-      <workItem from="1746802313263" duration="2946000" />
-      <workItem from="1746854079106" duration="2578000" />
-      <workItem from="1746869561123" duration="12230000" />
-      <workItem from="1746950177991" duration="594000" />
-      <workItem from="1747055108840" duration="9117000" />
+      <workItem from="1746521819593" duration="1636000" />
+      <workItem from="1746523599652" duration="4580000" />
+      <workItem from="1747127545796" duration="1735000" />
+      <workItem from="1747129634718" duration="2785000" />
+      <workItem from="1747133693472" duration="241000" />
+      <workItem from="1747153231869" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="mathOp">
       <option name="closed" value="true" />
@@ -344,55 +463,7 @@
       <option name="project" value="LOCAL" />
       <updated>1746182664102</updated>
     </task>
-    <task id="LOCAL-00011" summary="upd">
-      <option name="closed" value="true" />
-      <created>1746515737851</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746515737851</updated>
-    </task>
-    <task id="LOCAL-00012" summary="lab 8, 9 i Library zrobione">
-      <option name="closed" value="true" />
-      <created>1746709769278</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1746709769278</updated>
-    </task>
-    <task id="LOCAL-00013" summary="lab 8, 9 i Library zrobione">
-      <option name="closed" value="true" />
-      <created>1746709778745</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1746709778745</updated>
-    </task>
-    <task id="LOCAL-00014" summary="lab 8, 9 i Library zrobione">
-      <option name="closed" value="true" />
-      <created>1746709779825</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1746709779825</updated>
-    </task>
-    <task id="LOCAL-00015" summary="lab 8, 9 i Library zrobione">
-      <option name="closed" value="true" />
-      <created>1746709785827</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1746709785827</updated>
-    </task>
-    <task id="LOCAL-00016" summary="lab 8, 9 i Library zrobione">
-      <option name="closed" value="true" />
-      <created>1746709786587</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1746709786587</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,11 +494,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mathOp" />
+    <MESSAGE value="upd" />
     <MESSAGE value="lab 4 zrobiony" />
     <MESSAGE value="lab 5 zrobiony" />
-    <MESSAGE value="upd" />
-    <MESSAGE value="lab 8, 9 i Library zrobione" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 8, 9 i Library zrobione" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 5 zrobiony" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
